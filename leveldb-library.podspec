@@ -58,6 +58,10 @@ Pod::Spec.new do |s|
     "util/testutil.cc"
   ]
 
+  s.resource_bundle = {
+    "#{s.module_name}_Privacy" => 'Resources/PrivacyInfo.xcprivacy'
+  }
+
   s.library = 'c++'
 end
 
