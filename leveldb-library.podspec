@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         =  'leveldb-library'
-  s.version      =  '1.22.3'
+  s.version      =  '1.23.0'
   s.license      =  'New BSD'
   s.summary      =  'A fast key-value storage library '
   s.description  =  'LevelDB is a fast key-value storage library written at Google that provides ' +
