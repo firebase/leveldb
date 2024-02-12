@@ -50,6 +50,8 @@ let package = Package(
         "util/no_destructor_test.cc",
         "util/status_test.cc",
         "db/c_test.c",
+        "port/README.md",
+        "port/port_config.h.in",
       ],
       sources: [
         "db/",
