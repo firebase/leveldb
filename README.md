@@ -1,4 +1,4 @@
-> ![NOTE]
+> [!NOTE]
 > See this fork's CocoaPods-specific build and publishing instructions
 > [here](#cocoapods).
 
