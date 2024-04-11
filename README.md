@@ -263,5 +263,5 @@ the CocoaPods option `--skip-import-validation`.
     firebase-ios-sdk repo indicates there are no issues with the staged pod,
     the pod can be published with:
     ```console
-    pod trunk push leveldb-library.podspec --skip-import-validation
+    pod trunk push ~/.cocoapods/repos/staging/leveldb-library/{version}/leveldb-library.podspec.json --skip-import-validation
     ```
